@@ -1,54 +1,68 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=antonin686.antonin686" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Antonin!;" />
-</h1>
-
-<h3 align="center">A Passionate Software Engineer From Bangladesh</h3>
-
-<br/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=an2nin.an2nin" />
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Internet Computer, Supabase**
-
-💬 Ask me about **Javascript, React, or anything [here](https://github.com/antonin686/antonin686/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:antonin.islam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://antonin686.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
+<h1 align="center">Hi there, I'm Antonin Islam 👋</h1>
+<h3 align="center">Web3 Engineer | Frontend Developer | Gaming Enthusiast</h3>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,supabase,mongodb,c,java,nextjs,mysql,postgres" /><br>
+ 
+<a href="https://an2nin.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Website-an2nin.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+<a href="mailto:antoninislam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-antoninislam@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+ 
 </div>
 
-<br/>
-<hr/>
+---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+I'm a professional **Web3 Engineer** with expertise in frontend development. My focus is on building high-quality, user-centric applications. My true passion lies in gaming, which inspires me to build game-related side projects.
+
+-   🚀 I’m currently learning the **Noir Programming Language** and diving deep into **ZKP (Zero-Knowledge Proofs)**.
+-   💬 Ask me about my professional work with **React, TypeScript, and Solidity**, or about my gaming projects!
+
+---
+
+### ⭐ Featured Project
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://trackmypulls.com">TrackMyPulls.com</a></h3>
+      <p>A web application used by thousands of players to track their pull history and get analytics for popular gacha games. It's my proudest side project, combining my passions for gaming and development.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,solidity,tailwind,docker,git,github,vscode" />
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/antonin686/antonin686/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,figma,c,python,java" />
+</p>
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<div align="center">
+
+<a href="https://github.com/an2nin">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
-<hr/>
+<div align="center">
 
+### 🐍 My Contribution Graph
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake.svg" />
+
+</div>
