@@ -20,7 +20,7 @@ I build **high-quality, user-centric web apps**, often for gamers.
 ```ts
 const antonin = {
   role:       "Web Developer",
-  askMeAbout: ["React", "TypeScript", "Next.js", "gacha games"],
+  askMeAbout: ["React", "TypeScript", "Next.js", "Gaming"],
 };
 ```
 
