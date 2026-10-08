@@ -1,68 +1,61 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=an2nin.an2nin" />
-
 <div align="center">
-<h1 align="center">Hi there, I'm Antonin Islam 👋</h1>
-<h3 align="center">Web3 Engineer | Frontend Developer | Gaming Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Antonin+Islam+%F0%9F%91%8B;Web+Developer;Building+things+for+gamers+%F0%9F%8E%AE" alt="Hi, I'm Antonin Islam" />
+
+<p>
+  <a href="https://an2nin.github.io"><img src="https://img.shields.io/badge/an2nin.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=7AA2F7" alt="Website" /></a>
+  <a href="mailto:antoninislam@gmail.com"><img src="https://img.shields.io/badge/antoninislam@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=F7768E" alt="Email" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=an2nin.an2nin&left_color=%230d1117&right_color=%237AA2F7&left_text=visitors" alt="Visitors" />
+</p>
+
 </div>
 
-<div align="center">
- 
-<a href="https://an2nin.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Website-an2nin.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
-<a href="mailto:antoninislam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-antoninislam@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
- 
-</div>
+<br />
 
----
+I build **high-quality, user-centric web apps**, often for gamers.
 
-I'm a professional **Web3 Engineer** with expertise in frontend development. My focus is on building high-quality, user-centric applications. My true passion lies in gaming, which inspires me to build game-related side projects.
+```ts
+const antonin = {
+  role:       "Web Developer",
+  askMeAbout: ["React", "TypeScript", "Next.js", "gacha games"],
+};
+```
 
--   🚀 I’m currently learning the **Noir Programming Language** and diving deep into **ZKP (Zero-Knowledge Proofs)**.
--   💬 Ask me about my professional work with **React, TypeScript, and Solidity**, or about my gaming projects!
-
----
-
-### ⭐ Featured Project
+## Featured
 
 <table>
   <tr>
-    <td>
-      <h3><a href="https://trackmypulls.com">TrackMyPulls.com</a></h3>
-      <p>A web application used by thousands of players to track their pull history and get analytics for popular gacha games. It's my proudest side project, combining my passions for gaming and development.</p>
+    <td width="100%">
+      <a href="https://trackmypulls.com"><b>TrackMyPulls.com</b></a>
+      &nbsp;<img src="https://img.shields.io/website?url=https%3A%2F%2Ftrackmypulls.com&style=flat-square&label=&up_message=live&up_color=9ECE6A" alt="Site status" />
+      <br />
+      <sub>Pull history tracking and analytics for popular gacha games, used by thousands of players. My favourite side project, where gaming and development meet.</sub>
     </td>
   </tr>
 </table>
 
----
+## Stack
 
-### 🛠️ My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,solidity,tailwind,docker,git,github,vscode" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,figma,c,python,java" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express&theme=dark" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,docker,git,figma,python,java,c&theme=dark" alt="Backend and tools" />
 </p>
 
----
+## Activity
 
-### 📊 My GitHub Stats & Activity
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000" alt="Top languages" />
+  </picture>
+</p>
 
-<div align="center">
-
-<a href="https://github.com/an2nin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-### 🐍 My Contribution Graph
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake.svg" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</picture>
