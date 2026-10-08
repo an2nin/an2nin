@@ -1,11 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1a1b26,50:24283b,100:7aa2f7&section=header&text=Antonin%20Islam&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=Web%20Developer&descSize=16&descAlignY=60&descColor=a9b1d6" alt="Antonin Islam" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Antonin+Islam+%F0%9F%91%8B;Web+Developer;Building+things+for+gamers+%F0%9F%8E%AE" alt="Hi, I'm Antonin Islam" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+fast%2C+user-centric+web+apps;React+%C2%B7+TypeScript+%C2%B7+Next.js;Making+tools+for+gamers+%F0%9F%8E%AE" alt="Typing intro" />
 
 <p>
-  <a href="https://an2nin.github.io"><img src="https://img.shields.io/badge/an2nin.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=7AA2F7" alt="Website" /></a>
-  <a href="mailto:antoninislam@gmail.com"><img src="https://img.shields.io/badge/antoninislam@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=F7768E" alt="Email" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=an2nin.an2nin&left_color=%230d1117&right_color=%237AA2F7&left_text=visitors" alt="Visitors" />
+  <a href="https://an2nin.github.io"><img src="https://img.shields.io/badge/an2nin.github.io-1a1b26?style=flat-square&logo=googlechrome&logoColor=7AA2F7" alt="Website" /></a>
+  <a href="mailto:antoninislam@gmail.com"><img src="https://img.shields.io/badge/antoninislam@gmail.com-1a1b26?style=flat-square&logo=gmail&logoColor=F7768E" alt="Email" /></a>
+  <a href="https://github.com/an2nin?tab=followers"><img src="https://img.shields.io/github/followers/an2nin?style=flat-square&logo=github&label=followers&labelColor=1a1b26&color=7AA2F7" alt="Followers" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=an2nin.an2nin&left_color=%231a1b26&right_color=%237AA2F7&left_text=visitors" alt="Visitors" />
 </p>
 
 </div>
@@ -36,26 +39,48 @@ const antonin = {
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express&theme=dark" alt="Frontend" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,docker,git,figma,python,java,c&theme=dark" alt="Backend and tools" />
-</p>
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,figma&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Figma" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb&theme=dark" alt="Node.js, Express, Supabase, Postgres, MongoDB" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Docker, Git, GitHub, VS Code" /></td>
+  </tr>
+  <tr>
+    <td><b>Also</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Python, Java, C" /></td>
+  </tr>
+</table>
 
 ## Activity
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000" alt="Top languages" />
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000" alt="Top languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=an2nin&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=an2nin&hide_border=true&background=00000000" alt="Contribution streak" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake-dark.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7aa2f7,50:24283b,100:1a1b26&section=footer" alt="" />
