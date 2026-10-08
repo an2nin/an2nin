@@ -58,29 +58,4 @@ const antonin = {
   </tr>
 </table>
 
-## Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=an2nin&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an2nin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=an2nin&theme=tokyonight&hide_border=true&background=00000000" />
-  <img src="https://streak-stats.demolab.com?user=an2nin&hide_border=true&background=00000000" alt="Contribution streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/an2nin/an2nin/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-</picture>
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7aa2f7,50:24283b,100:1a1b26&section=footer" alt="" />
